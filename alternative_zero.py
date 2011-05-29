@@ -1,6 +1,6 @@
 ##############################################################################
 #
-# alternative_zero.py <timbob@bigpond.com>
+# alternative_zero.py <tim@tbrk.org>
 #
 # Assign another key, for example the backtick, to trigger the 0 button.
 # Extended to allow for multiple assignments.
